@@ -3,7 +3,7 @@
 
 extern "C"
 jstring
-Java_com_example_xiaobei_mobilevideo_MainActivity_stringFromJNI(
+Java_com_example_xiaobei_mobilevideo_SplashActivity_stringFromJNI(
         JNIEnv *env,
         jobject /* this */) {
     std::string hello = "正在启动";
